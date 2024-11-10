@@ -1,12 +1,12 @@
 # Netflix Data Analysis Dashboard
-##Project Overview
+## Project Overview
 This Tableau dashboard analyzes Netflix’s movie and TV show catalog, providing insights into content distribution, ratings, genres, and more. It helps visualize trends and patterns in Netflix's library over time, by country, and by genre.
 
-##Data Source
+## Data Source
 The dataset includes information on Netflix's movies and TV shows, such as:
 Title, Genre, Release Year, Rating, Duration, Country, Date Added, Description.
 
-##Dashboard Sheets
+## Dashboard Sheets
 1) Total Movies & TV Shows by Years: Trends in content availability over time.
 2) Total Movies & TV Shows by Countries: Distribution of content across different countries.
 3) Top 10 Genres: Most popular genres on Netflix.
@@ -19,14 +19,14 @@ Title, Genre, Release Year, Rating, Duration, Country, Date Added, Description.
 10) Release Year: Distribution of content by release year.
 11) Genre: Detailed breakdown of genres.
 
-##Features
+## Features
 Interactive Dashboards: Filter data by year, genre, country, etc.
 Responsive Layout: Optimized for different screen sizes.
 
-##Technology Used
+## Technology Used
 Tableau for data visualization.
 
-##How to Use
+## How to Use
 1) Open the Tableau workbook.
 2) Use filters to explore the data.
 3) Analyze content trends and insights.
