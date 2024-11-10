@@ -1,4 +1,4 @@
-#Netflix Data Analysis Dashboard
+# Netflix Data Analysis Dashboard
 ##Project Overview
 This Tableau dashboard analyzes Netflix’s movie and TV show catalog, providing insights into content distribution, ratings, genres, and more. It helps visualize trends and patterns in Netflix's library over time, by country, and by genre.
 
